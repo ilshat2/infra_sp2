@@ -4,7 +4,6 @@ from datetime import timedelta
 # from dotenv import load_dotenv
 from secret_settings import *
 
-
 # load_dotenv()
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
