@@ -2,7 +2,7 @@ import os
 
 from datetime import timedelta
 # from dotenv import load_dotenv
-from secret_settings import *
+from secret_settings import SECRET_KEY
 
 # load_dotenv()
 
